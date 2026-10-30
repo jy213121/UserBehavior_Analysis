@@ -1,0 +1,7 @@
+# 本地数据库凭据：禁止提交到 GitHub
+*.cnf
+db.cnf
+config/
+
+# 运行结果（可选，按需决定是否入库）
+# results/

@@ -1,0 +1,8 @@
+segment,user_cnt,avg_recency_days,avg_buy_cnt
+高价�,133,0.0,4.6
+�,523,0.0,1.7
+流失,327,0.1,1.9
+segment,user_cnt,pct,avg_total_behaviors
+高价�,133,13.53,130.6
+�,523,53.20,99.4
+流失,327,33.27,93.7
